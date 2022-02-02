@@ -2,10 +2,10 @@
 - 👀 I’m interested in 3D and VR technology 
 - 🌱 I’m currently learning VueJS and ThreeJS which use WebGl
 - 📫 How to reach me {{ 
-  Email: "Seifldin.attallah@gmail.com"
-  Phone: "+201151251902"
-  Phone2: "+201097009729"
-  LinkedIn: "/seif-nageh-6751111b5"
+-  Email : "Seifldin.attallah@gmail.com"
+-  Phone : "+201151251902"
+-  Phone2 : "+201097009729"
+-  LinkedIn : "/seif-nageh-6751111b5"
 }}
 - I have learned and used in my projects {{
 -   Markup Languages :
