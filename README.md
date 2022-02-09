@@ -17,16 +17,16 @@
     }},
 -   Languages :
       {{
--       Dart : 60%,
 -       JavaScript : 70%,
 -       ECMAScript 2015 (ES6) : 60%,
 -       Python : 50%
+-       Dart : 60%,
       }},
 -   Frameworks :
       {{
--     Flutter : 70%,
 -     BootStrap : 85%,
 -     UIKit : 80%,
 -     VueJS : 70%
+-     Flutter : 70%,
       }}
   }}
