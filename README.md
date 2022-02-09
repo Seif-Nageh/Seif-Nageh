@@ -28,5 +28,5 @@
 -     BootStrap : 85%,
 -     UIKit : 80%,
 -     VueJS : 70%
--     }}
+      }}
   }}
