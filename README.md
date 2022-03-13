@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Seif-Nageh
 - 👀 I’m interested in 3D and VR technology 
-- 🌱 I’m currently learning VueJS and ThreeJS which use WebGl
+- 🌱 I’m currently working with VueJS
+- 🌱 I’m currently learning ThreeJS which use WebGl and PHP(Laravel)
 - 📫 How to reach me {{ 
 -  Email : "Seifldin.attallah@gmail.com"
 -  Phone : "+201151251902"
@@ -28,5 +29,10 @@
 -     UIKit : 80%,
 -     VueJS : 70%
 -     Flutter : 70%,
+-     PugJS : 60%
+-     SASS : 85%
+-     JQuery : 90%
+-     DOM & BOM : 80%
+-     Git (GitHub) : 75%
       }}
   }}
