@@ -20,19 +20,29 @@
       {{
 -       JavaScript : 70%,
 -       ECMAScript 2015 (ES6) : 60%,
--       Python : 50%
--       Dart : 60%,
+-       Python : 50%,
+-       Dart : 60%
       }},
 -   Frameworks :
       {{
+-     VueJS : 70%,
+-     Flutter : 70%
+      }},
+-   Libraries :
+      {{
 -     BootStrap : 85%,
 -     UIKit : 80%,
--     VueJS : 70%
--     Flutter : 70%,
--     PugJS : 60%
+-     JQuery : 90%,
+-     Vuetify : 75%
+      }},
+-   Technologies :
+      {{
+-     PugJS : 60%,
 -     SASS : 85%
--     JQuery : 90%
--     DOM & BOM : 80%
+      }},
+-   VersioningTools
+      {{
 -     Git (GitHub) : 75%
       }}
+      
   }}
