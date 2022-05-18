@@ -26,6 +26,7 @@
 -   Frameworks :
       {{
 -     VueJS : 70%,
+-     React : 75%
 -     Flutter : 70%
       }},
 -   Libraries :
